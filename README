@@ -19,6 +19,6 @@ frontright_of_bar	- front-right view of bar
 in the 'motor_vehicle'category, 8 views of 'any vehicle' are given -
 then there are directories for specific types of vehicle, without the views
 these are seperate crops, so no information is repeated.
-view or category could be calculated without knowing the either
+view or category could be calculated without knowing the other.
 
-In the 'person' category, similar is done: there are 8-views of 'any type of person', the just 'front'/'back' X 'man'/'woman' (i.e. accurate angle could be calculated independently of gender).  'front_of_man' really means front_left|front_right|front, etc.
+In the 'person' category, similar is done: there are 8-views of 'any type of person', then just 'front'&'back' views of 'man'/'woman' (i.e. accurate angle could be calculated independently of gender).  'front_of_man' really means front_left|front_right|front, and 'back_of_man' really means back|backleft|backright.
