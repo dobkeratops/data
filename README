@@ -1,0 +1,24 @@
+these images are Creative Commons;
+taken from on-bike footage from an action-camera (vivitar DVR 914HD)
+
+NAMING CONVENTIONS
+
+
+CATEGORIES AND SUBCATEGORIES
+
+each directory name represents a category;
+sub-directories are refinements of a category
+each directory may contain images for that category, and/or more sub-directories. The deeper an image is placed, the more accurately it is labeled.
+
+ORIENTATIONS AND COMPONENTS
+
+foo_of_bar			- foo is a component of bar
+backleft_of_bar		- backview view of bar
+frontright_of_bar	- front-right view of bar
+
+in the 'motor_vehicle'category, 8 views of 'any vehicle' are given -
+then there are directories for specific types of vehicle, without the views
+these are seperate crops, so no information is repeated.
+view or category could be calculated without knowing the either
+
+In the 'person' category, similar is done: there are 8-views of 'any type of person', the just 'front'/'back' X 'man'/'woman' (i.e. accurate angle could be calculated independently of gender).  'front_of_man' really means front_left|front_right|front, etc.
